@@ -1,4 +1,4 @@
-incoming college freshman interested in math, cs, physics, web dev, building lil interesting stuff and more down to explore. 
+college freshman interested in math, cs, physics, web dev, building lil interesting stuff and more down to explore. find my website [here](https://stephyao.com) 
 
 :heart: Ross '23 '24, ESPR '24, PAIR '25, WiSE '25
 
@@ -8,6 +8,6 @@ incoming college freshman interested in math, cs, physics, web dev, building lil
 
 
 
-\* since May 1st, 2025:
+\* fyi this is since May 1st, 2025:
 
 ![steph's hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=1428&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
